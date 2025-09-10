@@ -1,0 +1,9 @@
+setuptools==75.2.0
+numpy==2.0.2
+pillow==11.3.0
+opencv-contrib-python==4.12.0.88
+opencv-python==4.12.0.88
+opencv-python-headless==4.12.0.88
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.2
