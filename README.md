@@ -29,12 +29,15 @@ This software makes it easy and fun to create your own illusion videos for art, 
 
 ## Quick Start
 1. Clone this repository
+
 `$ git clone https://github.com/Tkamikawa/ApparentMotionGenerator1/tree/main `
 
 2. move to `ApparentMotionGenerator1` directory under `src` 
+
 `cd ./ApparentMotionGenerator1/src/ApparentMotionGenerator1`
 
 3. run the `main.py`
+
 `$ python main.py [input image path] -o [output image path]`
 
 
