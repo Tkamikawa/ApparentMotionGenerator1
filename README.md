@@ -30,7 +30,7 @@ This software makes it easy and fun to create your own illusion videos for art, 
 ## Quick Start
 1. Clone this repository
 
-`$ git clone https://github.com/Tkamikawa/ApparentMotionGenerator1/tree/main `
+`$ git clone https://github.com/Tkamikawa/ApparentMotionGenerator1/`
 
 2. move to `ApparentMotionGenerator1` directory under `src` 
 
