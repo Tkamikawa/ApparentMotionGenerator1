@@ -34,7 +34,7 @@ This software makes it easy and fun to create your own illusion videos for art, 
 
 2. move to `ApparentMotionGenerator1` directory under `src` 
 
-`cd ./ApparentMotionGenerator1/src/ApparentMotionGenerator1/`
+`$ cd ./ApparentMotionGenerator1/src/ApparentMotionGenerator1/`
 
 3. run the `main.py`
 
