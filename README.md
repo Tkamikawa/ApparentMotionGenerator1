@@ -34,10 +34,14 @@ This software makes it easy and fun to create your own illusion videos for art, 
 
 2. move to `ApparentMotionGenerator1` directory under `src` 
 
-`cd ./ApparentMotionGenerator1/src/ApparentMotionGenerator1`
+`cd ./ApparentMotionGenerator1/src/ApparentMotionGenerator1/`
 
 3. run the `main.py`
 
 `$ python main.py [input image path] -o [output image path]`
+
+You can try the silver grass example above, using `data/SampleSilvergrass.png`
+
+`$ python main.py ../data/SampleSilvergrass.png -o [output image path]`
 
 
